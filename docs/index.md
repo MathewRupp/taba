@@ -2,9 +2,9 @@
 
 ![Cover Image](assets/coursecover.jpg)
 
-## Project layout
+`someFunction(test)`
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+```py
+def someFunction(parameter):
+  print("Hello World!")
+```
