@@ -4,6 +4,9 @@ theme:
   name: material
   palette:
     scheme: slate
+  features:
+    - content.code.copy
+    - content.code.annotate
 
 nav:
   - Home: "index.md"
