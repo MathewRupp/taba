@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: "There and Bark Again: A Corgi's Journey Into Python"
+site_url: "mathewrupp.github.io/taba"
+theme:
+  name: material
