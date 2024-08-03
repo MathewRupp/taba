@@ -2,3 +2,6 @@ site_name: "There and Bark Again: A Corgi's Journey Into Python"
 site_url: "https://mathewrupp.github.io/taba"
 theme:
   name: material
+  pallete:
+    scheme: slate
+    primary: deep purple
