@@ -4,3 +4,10 @@ theme:
   name: material
   palette:
     scheme: slate
+
+nav:
+  - Home: "index.md"
+  - "Chapter 1: An Unexpected Journey":
+      - "Why Python": "whypython.md"
+      - "Installing Python": "installation.md"
+  - About: "about.md"
