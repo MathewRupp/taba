@@ -1,6 +1,6 @@
 # Welcome to There and Bark Again
 
-![Cover Image](assets/coverimage.jpg)
+![Cover Image](assets/coursecover.jpg)
 
 ## Project layout
 
