@@ -1,5 +1,7 @@
 # Installing Python
 
+Python is easy to install and takes minutes. Follow the instructions below for your platform.
+
 ### macOS:
 
 1. **Using Homebrew (recommended):**
