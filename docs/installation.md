@@ -1,6 +1,7 @@
 # Installing Python
 
-![Installing Python](assets/installation.png)
+![Cover Image](assets/installing.png)
+
 Python is easy to install and takes minutes. Follow the instructions below for your platform.
 
 ### macOS:
