@@ -26,4 +26,5 @@ nav:
       - "How To Use This Book": "howtouse.md"
       - "Why Python": "whypython.md"
       - "Installing Python": "installation.md"
+      - "Configuring Your Editor": "editor.md"
   - About: "about.md"
